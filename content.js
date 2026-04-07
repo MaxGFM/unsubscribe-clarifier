@@ -113,7 +113,7 @@
 			form.getAttribute("id") || ""
 		];
 		form.querySelectorAll("input[type=hidden]").forEach(i => {
-			arts.push(i.name || "", i.value || "");
+			parts.push(i.name || "", i.value || "");
 		});
 		return normalizeText(parts.join(" "));
 	}
