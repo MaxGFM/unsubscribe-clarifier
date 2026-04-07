@@ -1,0 +1,30 @@
+{
+  "extensionName": {
+    "message": "Unsubscribe Clarifier",
+    "description": "Name of the extension shown in the browser."
+  },
+  "extensionDescription": {
+    "message": "On demand, highlights the button most likely to actually unsubscribe you, bypassing dark patterns.",
+    "description": "Short description in the add-on listing."
+  },
+  "actionTitle": {
+    "message": "Clarify unsubscribe buttons",
+    "description": "Tooltip on the toolbar icon."
+  },
+  "commandDescription": {
+    "message": "Clarify unsubscribe buttons on this page",
+    "description": "Keyboard shortcut description."
+  },
+  "menuLabel": {
+    "message": "Clarify unsubscribe buttons"
+  },
+  "badgeLikely": {
+    "message": "✓ likely real unsubscribe"
+  },
+  "badgePossible": {
+    "message": "possible unsubscribe"
+  },
+  "noCandidatesFound": {
+    "message": "No unsubscribe-like buttons found on this page."
+  }
+}

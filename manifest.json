@@ -1,0 +1,30 @@
+{
+  "manifest_version": 3,
+  "name": "__MSG_extensionName__",
+  "version": "0.1.0",
+  "description": "__MSG_extensionDescription__",
+  "default_locale": "en",
+  "permissions": ["activeTab", "scripting", "menus"],
+  "action": {
+    "default_title": "__MSG_actionTitle__",
+    "default_icon": {
+      "48": "fantasticIcon48.png",
+      "96": "fantasticIcon96.png"
+    }
+  },
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "commands": {
+    "clarify-unsubscribe": {
+      "suggested_key": { "default": "Ctrl+Shift+U" },
+      "description": "__MSG_commandDescription__"
+    }
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{9f706659-2f0f-42a8-bb44-9a70abbbfced}",
+      "strict_min_version": "115.0"
+    }
+  }
+}

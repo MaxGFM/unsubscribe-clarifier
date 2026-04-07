@@ -1,0 +1,26 @@
+{
+  "extensionName": { 
+    "message": "Abmelde-Klärer"
+  },
+  "extensionDescription": { 
+    "message": "Hebt auf Anfrage die Schaltfläche hervor, die dich tatsächlich abmeldet, und umgeht dunkle Muster." 
+  },
+  "actionTitle": { 
+    "message": "Abmelde-Schaltflächen klären" 
+  },
+  "commandDescription": { 
+    "message": "Abmelde-Schaltflächen auf dieser Seite klären" 
+  },
+  "menuLabel": { 
+    "message": "Abmelde-Schaltflächen klären"
+  },
+  "badgeLikely": { 
+    "message": "✓ wahrscheinlich echte Abmeldung" 
+  },
+  "badgePossible": { 
+    "message": "mögliche Abmeldung" 
+  },
+  "noCandidatesFound": { 
+    "message": "Keine Abmelde-Schaltflächen auf dieser Seite gefunden." 
+  }
+}

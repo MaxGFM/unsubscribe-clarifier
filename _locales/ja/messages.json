@@ -1,0 +1,26 @@
+{
+  "extensionName": { 
+    "message": "配信停止クラリファイア" 
+  },
+  "extensionDescription": { 
+    "message": "オンデマンドで、実際に配信停止となる可能性が高いボタンを強調表示し、ダークパターンを回避します。" 
+  },
+  "actionTitle": {
+     "message": "配信停止ボタンを明確化" 
+   },
+  "commandDescription": { 
+    "message": "このページの配信停止ボタンを明確化" 
+  },
+  "menuLabel": { 
+    "message": "配信停止ボタンを明確化" 
+  },
+  "badgeLikely": { 
+    "message": "✓ 本物の配信停止の可能性が高い" 
+  },
+  "badgePossible": { 
+    "message": "配信停止の可能性あり" 
+  },
+  "noCandidatesFound": { 
+    "message": "このページに配信停止ボタンは見つかりませんでした。" 
+  }
+}

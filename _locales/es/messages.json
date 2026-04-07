@@ -1,0 +1,26 @@
+{
+  "extensionName": { 
+    "message": "Clarificador de cancelación" 
+  },
+  "extensionDescription": { 
+    "message": "A petición, resalta el botón que probablemente cancela tu suscripción, sorteando patrones oscuros." 
+  },
+  "actionTitle": { 
+    "message": "Clarificar botones de cancelación" 
+  },
+  "commandDescription": { 
+    "message": "Clarificar botones de cancelación en esta página" 
+  },
+  "menuLabel": { 
+    "message": "Clarificar botones de cancelación" 
+  },
+  "badgeLikely": { 
+    "message": "✓ probable cancelación real" 
+  },
+  "badgePossible": { 
+    "message": "posible cancelación" 
+  },
+  "noCandidatesFound": { 
+    "message": "No se encontraron botones de cancelación en esta página." 
+  }
+}
